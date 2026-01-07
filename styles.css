@@ -1,0 +1,23 @@
+body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f7f6; color: #333; line-height: 1.6; padding: 20px; }
+
+.container { max-width: 800px; margin: auto; background: #fff; padding: 30px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+
+h1 { color: #232f3e; border-bottom: 2px solid #ff9900; padding-bottom: 10px; }
+
+.form-group { margin-bottom: 15px; }
+
+label { display: block; margin-bottom: 5px; font-weight: bold; }
+
+input[type="text"], textarea { width: 100%; padding: 10px; border: 1px solid #ddd; border-radius: 4px; box-sizing: border-box; }
+
+button { background-color: #ff9900; color: white; border: none; padding: 12px 20px; border-radius: 4px; cursor: pointer; font-size: 16px; font-weight: bold; }
+
+button:hover { background-color: #ec9100; }
+
+.success { background: #d4edda; color: #155724; padding: 10px; border-radius: 4px; }
+
+.error { background: #f8d7da; color: #721c24; padding: 10px; border-radius: 4px; }
+
+.note-card { background: #fff; border-left: 5px solid #ff9900; padding: 15px; margin-top: 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
+
+.note-card small { color: #888; }
